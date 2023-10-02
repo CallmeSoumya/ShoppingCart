@@ -1,1 +1,1 @@
-This is a eCommerce Website. This is made using HTML, CSS, BOOTSTRAP, MYSQL and PHP. From this Site User can book the product . Admin can change the product Details. He can see the name and requirements of User.
+"eShopper" is a robust e-commerce website, powered by HTML, Bootstrap, MySQL, and PHP. It offers a user-friendly shopping experience with a dedicated user panel for customers. Simultaneously, administrators access an efficient admin panel to manage products, orders, and user accounts, ensuring smooth and secure online retail operations.
