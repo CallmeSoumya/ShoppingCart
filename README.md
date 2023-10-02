@@ -1,1 +1,1 @@
-# ShoppingCart
+This is a eCommerce Website. This is made using HTML, CSS, BOOTSTRAP, MYSQL and PHP. From this Site User can book the product . Admin can change the product Details. He can see the name and requirements of User.
